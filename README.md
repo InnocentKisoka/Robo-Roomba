@@ -80,6 +80,4 @@ ros2 launch robo_roomba open_loop_launch.py
 
 See [`demos/`](demos/) for recorded simulation clips (Roomba run and wall avoidance).
 
-## License
 
-Course / lab project materials — license TBD.
